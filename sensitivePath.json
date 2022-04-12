@@ -1,0 +1,10 @@
+{
+    "flags": "-iE",
+     "patterns": [
+
+        "root",
+        "internal",
+        "private",
+        "secret"
+      ]
+}

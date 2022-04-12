@@ -1,0 +1,15 @@
+{
+    "flags": "-i",
+     "patterns": [
+
+      "login",
+      "singup",
+      "admin",
+      "dashboard",
+      "wp-admin",
+      "singin",
+      "adminer",
+      "dana-na",
+      "login/?next/="
+   ]
+}

@@ -1,0 +1,18 @@
+{
+    "flags": "-i",
+     "patterns": [
+
+      "jira",
+      "jenkins",
+      "grafana",
+      "mailman",
+      "+CSCOE+",
+      "+CSCOT+",
+      "+CSCOCA+",
+      "symfony",
+      "debug",
+      "gitlab",
+      "phpmyadmin",
+      "phpMyAdmin"
+      ]
+}

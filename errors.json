@@ -1,0 +1,7 @@
+{
+    "flags": "-iE",
+     "patterns": [
+
+        "error."
+      ]
+}
